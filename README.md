@@ -5,12 +5,6 @@ This is the second blockchain assignment where we were ordered to deploy a unive
 
 ## Usage
 Deployment: Deploy the ERC-20 token contract to the Ethereum blockchain. You can use Remix, Truffle, or any other Ethereum
-development environment.
-
-Interaction: Interact with the deployed contract using a wallet or Ethereum client.
-Use standard ERC-20 functions such as transfer, approve, transferFrom, and balanceOf to manage and transfer tokens.
-
-Deployment: Deploy the ERC-20 token contract to the Ethereum blockchain. You can use Remix, Truffle, or any other Ethereum
 development environment. If you are using MetaMask, ensure that you have the Ethereum Mainnet selected. You can also use BnB testnet
 
 Interaction: Interact with the deployed contract using a wallet or Ethereum client. You can use tools like MetaMask to interact with the Ethereum Mainnet.
