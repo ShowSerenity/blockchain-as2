@@ -19,7 +19,6 @@ Use standard ERC-20 functions such as transfer, approve, transferFrom, and balan
 
 ## Demo Screenshots/GIFs
 ![image](https://github.com/ShowSerenity/blockchain-as2/assets/124548089/fe1ced42-e071-4c53-ae98-2528b4d53942)
-![image](https://github.com/ShowSerenity/blockchain-as2/assets/124548089/b7ac4570-5429-4724-bb76-ba1b3f5fbb48)
 ![image](https://github.com/ShowSerenity/blockchain-as2/assets/124548089/90e342af-382f-43fc-ba83-7531c985b719)
 ![image](https://github.com/ShowSerenity/blockchain-as2/assets/124548089/bc7fbff8-412c-4b02-8522-9fcbc37202d3)
 ![image](https://github.com/ShowSerenity/blockchain-as2/assets/124548089/8e7d6800-7937-4119-b732-e3fc5fb76c4d)
